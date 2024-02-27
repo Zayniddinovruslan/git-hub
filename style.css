@@ -1,0 +1,663 @@
+/*reset*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+   /*main styling*/
+html,
+body  {
+  font-family: sans-serif;
+}
+
+header {
+    width: 100%;
+    background-color: rgb(233, 235, 237);
+}
+
+nav {
+    margin-left: 50px;
+}
+
+ul {
+    display: inline-block;
+    margin-left: 1020px;
+    padding: 20px;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+li a {
+    text-decoration: none;
+    padding: 20px 8px;
+    color: black;
+}
+
+
+
+
+.box {
+    background-image: url("img/hero-2.jpg");
+    padding: 50px 110px;
+}
+
+.olti {
+    color: aliceblue;
+}
+
+.hello {
+    text-align: center;
+    margin-top: 280px;
+}
+
+.lor{
+    width: 40%;
+    text-align: center;
+    margin-left:406px ;
+    margin-top: 30px;
+}
+
+.lb {
+    margin-top: 300px;
+}
+
+.rb {
+    display: inline-block;
+}
+
+.ruslan {
+    margin-left: 670px;
+    margin-top: 60px;
+   
+}
+
+.rus {
+    margin-left: 630px;
+   
+}
+
+.wer {
+    width: 65%;
+    margin-left: 300px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.usa {
+    display: inline-block;
+    width: 350px;
+    margin-top: 105px;
+    margin-left: 50px;
+}
+
+.asu {
+    display: inline-block;
+    width: 350px; 
+    margin-left: 200px;
+}
+
+.lupa {
+    display: inline-block;
+    width: 350px; 
+    margin-left: 160px;
+}
+
+.ry {
+    padding: 30px;
+    margin-left: 10px;
+}
+
+.er {
+    padding: 30px;
+    margin-left: 70px;
+    color: brown;
+}
+
+.rasm {
+    background-image: url("img/photo_2023-09-06_22-37-43.jpg") ;
+}
+
+.sss {
+    display: inline-block;
+    margin-left: 200px;
+    color:white;
+    margin-top: 90px;
+    text-align: center;
+}
+
+
+
+.ramos {
+    display: inline-block;
+    margin-top: 70px;
+}
+
+
+.samo {
+    width: 45%;
+    margin-left: 430px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.pepe {
+    margin-left: 630px;
+   color: #4b4a4a;
+}
+
+
+.lan {
+    margin-left: 30px;
+    margin-top: 60px;
+    display: inline-block;
+   
+}
+
+.salom {
+    margin-left: 130px;
+}
+
+.nutq {
+    width: 65%;
+    text-align: center;
+}
+
+.mane {
+    display: inline-block;
+    width: 350px; 
+    margin-left: -270px;
+}
+
+.ooo {
+    margin-left: 130px;
+}
+
+.ppp {
+    width: 135%;
+    text-align: center;
+}
+
+.di {
+    display: inline-block;
+    width: 350px; 
+    margin-left: 150px;
+}
+
+.www {
+    margin-left: 130px;
+}
+
+.com {
+    width: 135%;
+    text-align: center;
+}
+
+.mana {
+    display: inline-block;
+    margin-top: 50px;  
+}
+
+.usd {
+    margin-left: 600px;
+    color: #333;
+    padding-top: 180px;
+}
+
+.dus {
+    margin-left: 540px;
+    color: #333;
+}
+
+.zaynidd {
+    display: inline-block;
+}
+
+.tur {
+    width: 73%;
+    margin-top: 30px;
+    float: left;
+    text-align: center;
+    margin-left: 210px;
+}
+
+.hhh {
+    margin-top: 150px;
+    margin-left: 220px;
+    display: inline-block;
+    float: left;
+}
+
+.fff {
+    width: 42%;
+    margin-left: -94px;
+    float:left;
+
+}
+
+.uyi {
+    margin-top: 270px;
+    width: 73%;
+    margin-left: -180px;
+    float: left;
+}
+
+.ccc {
+  float: left; 
+}
+
+.ggg {
+    margin-left: -200px;
+    margin-top: -30px;
+}
+
+.logo {
+    float: right;
+    margin-right: 1200px;
+    width: 7%;
+}
+
+.vada {
+    display: inline-block;
+}
+
+.erga {
+    float: left;
+    margin-left: 170px;
+}
+
+.pop {
+   float: right;
+   margin-right: 350px;
+   margin-top: 120px;
+}
+
+.oppo {
+    float: right;
+    margin-right: 210px;
+    width: 28%;
+    margin-top: 50px;
+}
+
+.rep {
+    display: inline-block;
+    margin-left: 150px;
+    width: 25%;
+    float: left;
+}
+
+.acer {
+   color: #333; 
+}
+
+.nol{
+margin-top: 14px;
+}
+
+.dal {
+    float:right;
+
+}
+
+.los {
+  float: right;
+  padding-top: 70px;
+  margin-right: 500px;
+}
+
+.ols {
+  margin-right: -200px;
+}
+
+.tuy {
+    display: inline-block;
+    background-color: #fff;
+    margin-top: 100px;
+    width: 100%;
+}
+
+.latet {
+    margin-left: 670px;
+}
+
+.puul {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.tuy{
+    display: inline-block;
+    margin-top: 50px;
+}
+
+.rasimlar {
+    margin-left: 150px;
+    margin-top: 60px;
+    display: inline-block;
+}
+
+.pele {
+    width: 23%;
+}
+
+.uuuuu {
+    margin-top: 15px;
+    color: red;
+}
+
+.ummon {
+    margin-top: 15px;
+}
+
+.schol {
+    margin-top: 10px;
+}
+
+.undov {
+    margin-top: 10px;
+    width: 24%;
+}
+
+.porlo {
+    margin-top: 8px;
+}
+
+.tuy {
+    display: inline-block;
+    background-color: #fff;
+    margin-top: 100px;
+    width: 100%;
+}
+
+.latet {
+    margin-left: 670px;
+}
+
+.puul {
+    text-align: center;
+    margin-top: 40px;
+}
+
+
+
+.blck {
+    margin-left: 650px;
+    margin-top: 60px;
+    display: inline-block;
+    float: left;
+    margin-top: -450px;
+}
+
+.html {
+    width: 35%;
+}
+
+.tttt {
+    margin-top: 15px;
+    color: red;
+}
+
+.dengiz {
+    margin-top: 15px;
+}
+
+.scols {
+    margin-top: 10px;
+}
+
+.suroq {
+    margin-top: 10px;
+    width: 35%;
+}
+
+.lorlo{
+    margin-top: 8px;
+}
+
+.messi {
+    margin-left: 1100px;
+    margin-top: 60px;
+    display: inline-block;
+    float: left;  
+    margin-top: -450px;
+}
+
+.dida {
+    width: 73%;
+}
+
+.vida {
+    margin-top: 15px;
+    color: red;
+}
+
+.dars {
+    margin-top: 15px;
+}
+
+.jud {
+    margin-top: 10px;
+}
+
+.eden {
+    margin-top: 10px;
+    width: 77%;
+}
+
+.text {
+    margin-top: 8px;
+}
+
+.ronaldo {
+    margin-top: 70px;
+    text-align: center;
+}
+
+.tibo {
+    width: 45%;
+    margin-left: 420px;
+    margin-top: 50px;
+}
+
+.karim {
+    margin-top: 30px;
+    color: red;
+}
+
+.neymar {
+    display: inline-block;
+    margin-top: 50px;
+}
+
+.alaba {
+    width: 25%;
+    margin-right: 860px;
+    display: inline-block;
+}
+
+.militao {
+    width: 25%;
+    margin-top: -570px;
+    float: right;
+    margin-right: 570px;
+}
+
+.fran {
+    width: 25%;
+    margin-top: -570px;
+    float: right;
+    margin-right: 140px;
+}
+
+.fedi {
+    width: 25%;
+    margin-right: 850px;
+    display: inline-block;
+    margin-top: 40px;
+}
+
+.luka {
+    width: 25%;
+    margin-top: -460px;
+    float: right;
+    margin-right: 570px;
+}
+
+.toni {
+    width: 25%;
+    margin-top: -330px;
+    float: right;
+    margin-left: 200px;
+    margin-right: 140px;
+}
+
+.mbappe {
+    margin-top: 70px;
+    text-align: center;
+    background-color: #f0ebeb;
+}
+
+.lunin {
+    margin-top: 20px;
+    width: 45%;
+    margin-left: 400px;
+}
+
+.modrich {
+    text-align: center;
+    background-color: #ffffff;
+    width: 20%;
+    margin-left: 140px;
+    margin-top: 50px;
+
+}
+
+.saloh {
+    color: rgba(245, 245, 3, 0.681);
+    padding: 20px 0px;
+}
+
+.goish {
+    padding: 15px;
+}
+
+.kepa {
+    width: 54%;
+    margin-left: 70px;
+    margin-top: 15px;
+}
+
+.joselu {
+    margin-top: 140px;
+}
+
+.bellengam {
+    background-color: rgb(224, 224, 9);
+    color: white;
+    padding: 10px 100px;
+    border-color:rgb(224, 224, 9) ;
+    margin-top: 10px;
+}
+
+
+.lewa {
+    text-align: center;
+    background-color: #ffffff;
+    width: 20%;
+    margin-left: 600px;
+    margin-top: -475px;
+
+}
+
+.keyn {
+    color: rgba(3, 245, 15, 0.681);
+    padding: 20px 0px;
+}
+
+.tomas {
+    padding: 15px;
+}
+
+.beyl {
+    padding: 15px;
+}
+
+.casilas{
+    margin-top: 15px;
+    width: 54%;
+    margin-left: 70px;
+}
+
+.suars {
+    margin-top: 120px;
+}
+
+.casamiro {
+    background-color: rgb(9, 224, 20);
+    color: white;
+    padding: 10px 100px;
+    border-color:rgb(9, 224, 63) ;
+    margin-top: 10px;
+}
+
+
+.haaland {
+    text-align: center;
+    background-color: #ffffff;
+    width: 20%;
+    margin-left: 1070px;
+    margin-top: -475px;
+
+}
+
+.valvirdi {
+    color: rgba(253, 1, 1, 0.681);
+    padding: 20px 0px;
+}
+
+.devis {
+    padding: 15px;
+}
+
+.benzima {
+    padding: 15px;
+}
+
+.kahn{
+    margin-top: 15px;
+    width: 54%;
+    margin-left: 70px;
+}
+
+.forlan {
+    margin-top: 120px;
+}
+
+.zidan {
+    background-color: rgb(255, 0, 0);
+    color: white;
+    padding: 10px 100px;
+    border-color:rgb(255, 1, 1) ;
+    margin-top: 10px;
+}
+
+.ronaldinyo {
+    display: inline-block;
+}
+
+.carlos {
+    margin-top: 200px;
+    margin-left: 550px;
+}
+
+.bekham {
+    width: 130%;
+    margin-top: 30px;
+}
+
+.asinsio {
+    padding: 25px;
+}
